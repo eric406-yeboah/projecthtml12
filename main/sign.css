@@ -1,0 +1,101 @@
+
+
+
+
+.nav{
+    padding-left: 8rem;
+}
+
+#log{
+    margin-left: -7rem;
+}
+#nav-link {
+    padding: 5px 40px;
+    margin-left: 5rem;
+}
+
+#nav-link2{
+    padding: 8px 45px;
+    margin-left: 2rem;
+}
+
+.h{
+    height: 50px;
+}
+
+#im{
+    margin-left:-6rem;
+    width: 150px;
+}
+
+.nav{
+    margin-left: -2rem;
+}
+
+.mm{
+    height: 609px;
+}
+
+.inputstyle,#pagetitle{
+    display: block;
+  }
+  
+  .inputstyle{
+    padding: 10px ;
+    width:410px ;
+    background-color: #efefef;
+    border: none;
+    margin: 5px;
+  }
+  
+  
+  
+#container{
+    width: 580px;
+    background-color: white;
+    margin-left: 20%;
+    margin-right: 20%;
+    height: 79vh;
+    padding: 60px;
+    margin-top: 80px;
+  
+  }
+  
+#pagetitle{
+    text-align: center;
+    margin-top: -3rem ;
+  }
+  
+  /* #lb_chk{
+    display: block;
+    float: left;
+  } */
+  
+  #txt_forgot{
+    display: flex;
+    float: right;
+    margin-right: 3rem;
+  }
+  
+
+  
+#btnlogin{
+    display: block;
+    width: 82%;
+    height: 100;
+    background-color: rgb(59, 59, 254);
+    border: none;
+    color: #fff;
+    text-align: center;
+    text-decoration: none;
+    padding: 10px;
+    margin-top:1rem ;
+    
+  
+  }
+ 
+#IB_chk{
+     accent-color: rgb(70, 70, 253);
+     margin-left: -0.5rem;
+ }
+

@@ -1,0 +1,98 @@
+
+
+
+
+.nav{
+    padding-left: 8rem;
+}
+
+#log{
+    margin-left: -7rem;
+}
+#nav-link {
+    padding: 5px 40px;
+    margin-left: 5rem;
+}
+
+#nav-link2{
+    padding: 8px 45px;
+    margin-left: 2rem;
+}
+
+.h{
+    height: 50px;
+}
+
+#im{
+    margin-left:-6rem;
+    width: 150px;
+}
+
+.nav{
+    margin-left: -2rem;
+}
+
+.mm{
+    height: 609px;
+}
+
+.inputstyle,#pagetitle{
+    display: block;
+  }
+  
+  .inputstyle{
+    padding: 10px ;
+    width:410px ;
+    background-color: #efefef;
+    border: none;
+    margin: 5px;
+    margin-left: -0.5rem;
+  }
+  
+  
+  
+#container{
+    width: 500px;
+    background-color: white;
+    margin-left: 30%;
+    margin-right: 20%;
+    height: 59vh;
+    padding: 80px;
+    margin-top: 140px;
+  
+  }
+  
+#pagetitle{
+    text-align: center;
+    margin-top: -3rem ;
+  }
+  
+  
+
+  
+#btnlogin{
+    display: block;
+    width: 82%;
+    height: 100;
+    background-color: rgb(59, 59, 254);
+    border: none;
+    color: #fff;
+    text-align: center;
+    text-decoration: none;
+    padding: 10px;
+    margin-top:1rem ;
+    
+  
+  }
+
+.lab{
+    margin-left: -3rem;
+}
+
+#pass{
+    text-align: center;
+    text-decoration: none;
+    margin-left: 5rem;
+}
+
+

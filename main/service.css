@@ -1,0 +1,245 @@
+
+
+
+
+.nav{
+    padding-left: 8rem;
+}
+
+#log{
+    margin-left: -7rem;
+}
+#nav-link {
+    padding: 5px 40px;
+    margin-left: 5rem;
+}
+
+#nav-link2{
+    padding: 8px 45px;
+    margin-left: 2rem;
+}
+
+.h{
+    height: 50px;
+}
+
+#im{
+    margin-left:-6rem;
+    width: 150px;
+}
+
+.nav{
+    margin-left: -2rem;
+}
+
+.top{
+    background-image: url(../images/photo-1576267423445-b2e0074d68a4.webp);
+    height: 70vh;
+    background-size: cover;
+}
+
+.up{
+    margin-top: -15rem;
+    margin-left: 10rem;
+    color:rgb(16, 126, 251);
+    font-size: 80px;
+}
+
+#sign{
+    border-top-left-radius: 20px;
+    border-top-right-radius:20px;
+    background-image: url(../images/10.webp);
+    background-repeat: no-repeat;
+    height: 40%;
+    background-size: 310px;
+
+}
+
+
+#form_container{
+    box-shadow: 0 4px 4px rgba(0,0,0,0.1),0 8px 16px rgba(0,0,0,0.1);
+    justify-content: center;
+    border-color: black;
+    background: white;
+    border-radius: 20px;  
+    max-width: 310px;
+    padding-bottom: 80px;
+    height: 420px;
+    margin-left: 4%;
+
+
+}
+#style{
+    margin-left: 20%;
+}
+
+
+#sir{
+    margin-left: 7%;
+    width: 272px;
+    height: 6vh;
+    border-radius: 12px;
+    background-color: blue;
+    border-color: blue;
+    color: white;
+}
+
+#log{
+    margin-left: 35%;
+    text-decoration: none;
+    color: black;
+}
+
+
+
+#sign2{
+    border-top-left-radius: 20px;
+    border-top-right-radius:20px;
+    background-image: url(../images/11.webp);
+    background-repeat: no-repeat;
+    height: 33%;
+    background-size: 310px;
+
+}
+
+
+#form_container2{
+    box-shadow: 0 4px 4px rgba(0,0,0,0.1),0 8px 16px rgba(0,0,0,0.1);
+    justify-content: center;
+    border-color: black;
+    background: white;
+    border-radius: 20px;  
+    max-width: 310px;
+    
+    height: 420px;
+    margin-left: 38%;
+    margin-top: -417px ;
+
+}
+#style2{
+    margin-left: 20%;
+}
+
+
+#sir2{
+    margin-left: 7%;
+    width: 272px;
+    height: 6vh;
+    border-radius: 12px;
+    background-color: blue;
+    border-color: blue;
+    color: white;
+}
+
+#log2{
+    margin-left: 35%;
+    text-decoration: none;
+    color: black;
+}
+
+
+#sign3{
+    border-top-left-radius: 20px;
+    border-top-right-radius:20px;
+    background-image: url(../images/2.webp);
+    background-repeat: no-repeat;
+    height: 40%;
+    background-size: 310px;
+
+}
+
+
+#form_container3{
+    box-shadow: 0 4px 4px rgba(0,0,0,0.1),0 8px 16px rgba(0,0,0,0.1);
+    justify-content: center;
+    border-color: black;
+    background: white;
+    border-radius: 20px;  
+    max-width: 310px;
+    padding-bottom: 80px;
+    height: 420px;
+    margin-left: 70%;
+    margin-top: -417px;
+
+}
+#style3{
+    margin-left: 20%;
+}
+
+
+#sir3{
+    margin-left: 7%;
+    width: 272px;
+    height: 6vh;
+    border-radius: 12px;
+    background-color: blue;
+    border-color: blue;
+    color: white;
+}
+
+#log3{
+    margin-left: 35%;
+    text-decoration: none;
+    color: black;
+}
+
+#sign4{
+    border-top-left-radius: 20px;
+    border-top-right-radius:20px;
+    background-image: url(../images/3.webp);
+    background-repeat: no-repeat;
+    height: 40%;
+    background-size: 310px;
+
+}
+
+#sign5{
+    border-top-left-radius: 20px;
+    border-top-right-radius:20px;
+    background-image: url(../images/4.webp);
+    background-repeat: no-repeat;
+    height: 33%;
+    background-size: 310px;
+
+}
+
+#sign6{
+    border-top-left-radius: 20px;
+    border-top-right-radius:20px;
+    background-image: url(../images/5.webp);
+    background-repeat: no-repeat;
+    height: 40%;
+    background-size: 310px;
+
+}
+
+#sign7{
+    border-top-left-radius: 20px;
+    border-top-right-radius:20px;
+    background-image: url(../images/6.webp);
+    background-repeat: no-repeat;
+    height: 40%;
+    background-size: 310px;
+
+}
+
+#sign8{
+    border-top-left-radius: 20px;
+    border-top-right-radius:20px;
+    background-image: url(../images/7.webp);
+    background-repeat: no-repeat;
+    height: 33%;
+    background-size: 310px;
+
+}
+
+#sign9{
+    border-top-left-radius: 20px;
+    border-top-right-radius:20px;
+    background-image: url(../images/9.webp);
+    background-repeat: no-repeat;
+    height: 40%;
+    background-size: 310px;
+
+}
+

@@ -1,0 +1,117 @@
+
+
+
+
+.nav{
+    padding-left: 8rem;
+}
+
+#log{
+    margin-left: -7rem;
+}
+#nav-link {
+    padding: 5px 40px;
+    margin-left: 5rem;
+}
+
+#nav-link2{
+    padding: 8px 45px;
+    margin-left: 9.5rem;
+}
+
+.h{
+    height: 50px;
+}
+
+#im{
+    margin-left:-6rem;
+    width: 150px;
+}
+
+.nav{
+    margin-left: -2rem;
+}
+
+
+.top{
+    background-image: url(../images/22.webp);
+    height: 70vh;
+    background-size: cover;
+}
+
+.up{
+    margin-top: -15rem;
+    margin-left: 18rem;
+    color: white;
+}
+
+.below{
+    margin-left: 20rem;
+    color: white;
+}
+
+.hello{
+    background-color: rgb(58, 125, 250);
+    height: 50vh;
+    margin-top: 9rem;
+}
+
+.btn{
+    background-color: yellowgreen;
+    padding: 15px 60px;
+    margin-left: 10rem;
+    margin-top: 2rem;
+}
+
+a{
+    text-decoration: none;
+}
+
+.log{
+    background-color: yellowgreen;
+    padding: 15px 50px;
+    margin-left: 10rem; 
+    margin-top: 3rem;
+    width: 270px;
+    border-radius: 5px;
+}
+
+.btn3{
+    margin-top: -9.5rem;
+    background-color: yellowgreen;
+    padding: 15px 50px;
+    width: 270px;
+    margin-left: 40rem;
+    border-radius: 5px;
+}
+
+.btn4{
+    background-color: yellowgreen;
+    padding: 15px 20px;
+    margin-left: 40rem; 
+    margin-top: 3rem;
+    width: 270px;
+    border-radius: 5px;
+}
+
+.coach{
+    background-color: rgb(9, 135, 225);
+    width: 270px;
+    padding: 15px 20px;
+    border-radius: 10px;
+    margin-top: 1rem;
+    margin-left: 25rem;
+}
+
+#me{
+    margin-top: 6rem;
+}
+
+.coache{
+    background-color: yellowgreen;
+    width: 270px;
+    padding: 15px 20px;
+    border-radius: 10px;
+    margin-top: 1rem;
+    margin-left: 25rem;
+}
